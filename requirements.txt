@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+snowflake-connector-python
+pyodbc
+azure-identity
+streamlit-option-menu
+matplotlib
+seaborn
+altair
+plotly
+bokeh
+pydeck
+bcrypt
+azure-keyvault-secrets
+streamlit_cookies_manager
+reportlab
